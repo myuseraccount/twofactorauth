@@ -265,6 +265,16 @@ websites:
       sms: Yes
       doc: https://docs.incapsula.com/Content/management-console-and-settings/account-settings.htm
 
+    - name: Infomaniak
+      url: https://www.infomaniak.com
+      img: infomaniak.png
+      tfa: Yes
+      email: No
+      software: Yes
+      hardware: Yes
+      sms: Yes
+      doc: https://www.infomaniak.com/en/support/faq/1940/enabling-double-authentication-two-step-validation
+
     - name: Internet.bs
       url: https://www.internet.bs
       img: internetbs.png
